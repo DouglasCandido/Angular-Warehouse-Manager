@@ -1,2 +1,3 @@
-# Web-Development
-I'll use this repository to practice Web Development.
+# Controle-Almoxarifado
+A simple warehouse management SPA. 
+
