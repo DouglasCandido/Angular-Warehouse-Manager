@@ -1,3 +1,3 @@
 # Controle-Almoxarifado
-A simple warehouse management SPA. 
+A warehouse management SPA. 
 
