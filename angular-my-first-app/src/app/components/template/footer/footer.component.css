@@ -3,10 +3,10 @@
   bottom: 0;
   display: flex;
   justify-content: flex-end;
+  background-color: green;
 
 }
 
 .footer>span {
-  font-weight: 300;
-  font-size: 1.1rem;
+  font-weight: normal;
 }

@@ -1,6 +1,8 @@
 .header {
   display: flex;
   align-items: center;
+  background-color: #FFF;
+  color: darkblue;
 }
 
 .header a {
