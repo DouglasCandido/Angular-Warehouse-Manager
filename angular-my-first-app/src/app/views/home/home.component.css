@@ -1,3 +1,12 @@
-.card {
+.home {
     background-color: yellow;
+}
+
+.home .title {
+    font-size: 3rem;
+    line-height: 1.6;
+}
+
+.home .subtitle {
+    font-size: 1.1rem;
 }
