@@ -2,28 +2,43 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "Caneta BIC",
+      "price": 34.90
     },
     {
       "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 12000.89
+      "name": "Notebook Apple",
+      "price": 11304.99
     },
     {
       "id": 3,
-      "name": "Samsung S20+",
-      "price": 5000.89
+      "name": "Celular Samsung",
+      "price": 699.00
     },
     {
-      "name": "Geladeira",
-      "price": "1913.99",
+      "name": "Geladeira Brastemp",
+      "price": 4579.00,
       "id": 4
     },
     {
-      "name": "Notebook",
-      "price": "3567.87",
+      "name": "Notebook Dell",
+      "price": 3599,
       "id": 5
+    },
+    {
+      "name": "Fogão Electrolux",
+      "price": 1614.05,
+      "id": 6
+    },
+    {
+      "name": "Mouse Redragon",
+      "price": 115.89,
+      "id": 7
+    },
+    {
+      "name": "Quadro Branco STALO",
+      "price": 129.99,
+      "id": 8
     }
   ]
 }
