@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC",
-      "price": 34.90
+      "price": 34.9
     },
     {
       "id": 2,
@@ -13,11 +13,11 @@
     {
       "id": 3,
       "name": "Celular Samsung",
-      "price": 699.00
+      "price": 699
     },
     {
       "name": "Geladeira Brastemp",
-      "price": 4579.00,
+      "price": 4579,
       "id": 4
     },
     {
@@ -39,6 +39,26 @@
       "name": "Quadro Branco STALO",
       "price": 129.99,
       "id": 8
+    },
+    {
+      "name": "Churrasqueira Tramontina",
+      "price": 961.97,
+      "id": 9
+    },
+    {
+      "name": "Mesa Digitalizadora Wacom",
+      "price": 509.9,
+      "id": 10
+    },
+    {
+      "name": "Caneta Tinteiro Safari",
+      "price": 36,
+      "id": 11
+    },
+    {
+      "name": "Garrafa Térmica Stanley Hydration",
+      "price": 300,
+      "id": 12
     }
   ]
 }
