@@ -15,7 +15,7 @@ export class ProductService {
 
   showMessage(msg: string) {
     this.snackBar.open(msg, 'X', 
-    {duration:  3000, horizontalPosition:   "right", verticalPosition: "top"});
+    {duration:  3000, horizontalPosition: "right", verticalPosition: "top"});
   }
 
   create(product: Product): Observable<Product> {
