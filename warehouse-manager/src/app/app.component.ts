@@ -10,11 +10,15 @@ import {
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements AfterViewInit {
+
   title = 'Controle do Almoxarifado da UFRN';
-  constructor(private elementRef: ElementRef) {
+
+  constructor(private elementRef: ElementRef) { }
+
+  ngAfterViewInit() {
+
+    this.elementRef.nativeElement.ownerDocument.body.style.backgroundColor = "gainsboro";
 
   }
-  ngAfterViewInit(){
-    this.elementRef.nativeElement.ownerDocument.body.style.backgroundColor = "gainsboro";
-  }
+  
 }

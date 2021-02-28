@@ -20,12 +20,19 @@ export class ProductRead2Component implements AfterViewInit, OnInit {
   displayedColumns = ['id', 'name', 'price'];
 
   ngOnInit() {
+
     this.dataSource = new ProductRead2DataSource();
+
   }
 
   ngAfterViewInit() {
+
     this.dataSource.sort = this.sort;
+
     this.dataSource.paginator = this.paginator;
+    
     this.table.dataSource = this.dataSource;
+
   }
+  
 }
