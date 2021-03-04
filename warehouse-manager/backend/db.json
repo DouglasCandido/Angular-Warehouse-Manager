@@ -11,54 +11,34 @@
       "price": 11304.99
     },
     {
-      "id": 3,
-      "name": "Celular Samsung",
-      "price": 699
-    },
-    {
       "name": "Geladeira Brastemp",
       "price": 4579,
-      "id": 4
+      "id": 3
     },
     {
       "name": "Notebook Dell",
       "price": 3599,
-      "id": 5
+      "id": 4
     },
     {
       "name": "Fogão Electrolux",
       "price": 1614.05,
-      "id": 6
-    },
-    {
-      "name": "Mouse Redragon",
-      "price": 115.89,
-      "id": 7
+      "id": 5
     },
     {
       "name": "Quadro Branco STALO",
       "price": 129.99,
-      "id": 8
-    },
-    {
-      "name": "Churrasqueira Tramontina",
-      "price": 961.97,
-      "id": 9
+      "id": 6
     },
     {
       "name": "Mesa Digitalizadora Wacom",
       "price": 509.9,
-      "id": 10
+      "id": 7
     },
     {
       "name": "Caneta Tinteiro Safari",
       "price": 36,
-      "id": 11
-    },
-    {
-      "name": "Garrafa Térmica Stanley Hydration",
-      "price": 300,
-      "id": 12
+      "id": 8
     }
   ]
 }
